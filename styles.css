@@ -1,0 +1,79 @@
+body{
+  background-color:  #b07c30;
+    max-width: 80%;
+    padding-left: 10%;
+}
+header{
+  width: 80%;
+}
+h1{
+  padding-left: 2%;
+   font-family: "serif";
+}
+p{
+  padding-left: 2%;
+  font-family: serif;
+}
+
+nav{
+  text-align: center;
+}
+nav a {
+    text-decoration: none;
+    padding-left: 2%;
+    padding-right: 2%;
+    border: 1px;
+    border-style:solid;
+    border-color: #b07c30;
+    width: 100%;
+    color: #222222;
+    font-family: serif;
+}
+a:hover {
+  background-color: darkgray;
+  color: white;
+}
+hr{
+    background-color: #b07c30;
+}
+.information{
+  width: 100%;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  color: #222222;
+  font-family: serif;
+}
+.about {
+  float: left;
+  width: 50%;
+  position: relative;
+}
+.location {
+  float: left;
+  width: 50%;
+  position: relative;
+}
+.review{
+  border: 2px solid  #b07c30;
+  border-radius: 10px;
+  float: left;
+  width: 49%;
+  background-color: lightgray;
+}
+.catering {
+  float: left;
+  width: 45%;
+  position: relative;
+}
+.contact {
+  float: left;
+  width: 50%;
+  position: relative;
+}
+.aindex{
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+  border: 0; 
+}
